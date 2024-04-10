@@ -27,9 +27,13 @@ VCO Using Stack Transistor Based Inverter
 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:
 
 Operating Frequency: 1.24GHz
+
 Output Voltage: 1.75Vpp
+
 Phase Noise: -96.706dBc/Hz
+
 Total Power: 0.262mW
+
 Figure of Merit (FOM): 176.480
 
 
